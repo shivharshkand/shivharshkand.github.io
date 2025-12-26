@@ -1,23 +1,11 @@
 # Shivharsh Kand
 Mechanical Engineer · Controls · CFD · Prototyping
 
-## Selected Projects
+Welcome to my engineering portfolio. I am a mechanical engineer with experience in computational fluid dynamics, control systems, and hands-on prototyping across academic and industry projects.
 
-### Rotor Cooling Optimization (CFD)
-Steady-state CFD analysis to optimize airflow paths for PCB cooling.
+## Navigation
+- [Portfolio](portfolio.md)
+- [Resume](resume.md)
+- [Hobbies](hobbies.md)
+- [Giving Back](giving-back.md)
 
-[View project →](projects/rotor-cfd.md)
-
----
-
-### Microfluidic Flow Cell Design (Encodia)
-Precision resin-printed molds for PDMS-based flow cells in a regulated medical environment.
-
-[View project →](projects/flow-cell.md)
-
----
-
-### Control Systems & Robotics
-Modeling, simulation, and control design for dynamic systems.
-
-[View project →](projects/controls-robot.md)
